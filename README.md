@@ -51,5 +51,5 @@ A simple command-line Blackjack game implemented in Python. The game follows sta
 - Introduce multiplayer support
 
 ## Author
-[Your Name] - [GitHub Profile]
+Aykut - Aykutemreyalcin
 
